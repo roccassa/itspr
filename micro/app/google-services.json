@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368940525422",
+    "project_id": "micro3-b8f0a",
+    "storage_bucket": "micro3-b8f0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368940525422:android:f6fa2c269a04d54940c37f",
+        "android_client_info": {
+          "package_name": "com.itspr.micro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJNyTA3pXMfkoqLoCgoVNI6A_y82JqVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
