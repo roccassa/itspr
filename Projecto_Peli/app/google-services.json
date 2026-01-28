@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608471755527",
+    "project_id": "project-peli",
+    "storage_bucket": "project-peli.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608471755527:android:7a0fdd489cb42342c773a2",
+        "android_client_info": {
+          "package_name": "com.example.projecto_peli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_RbQwlDWaMaLL24Q8zI6GCYQcCy1gnB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
