@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51186124968",
+    "project_id": "authe-bcbd1",
+    "storage_bucket": "authe-bcbd1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51186124968:android:ceb56c97bd26d20e0a9a9d",
+        "android_client_info": {
+          "package_name": "com.itspr.authe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZ_gWCtu655pAU5zCUBKuOk0n5o1_Zlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
